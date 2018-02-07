@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.4.0)
+  - CRNetworkButton (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - Pushbots (2.0.4)
+  - SlideMenuControllerSwift (3.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - CRNetworkButton
+  - MBProgressHUD (~> 1.0.0)
+  - Pushbots (~> 2.0.4)
+  - SlideMenuControllerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  CRNetworkButton: 2bfe150c64a46506ade962745a3364f21bef3115
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  Pushbots: bfad6adb35765289c59c88f6eb3cbbb839d0eecc
+  SlideMenuControllerSwift: 9a163b16d54afab734add42858cba7ef7c307755
+
+PODFILE CHECKSUM: 9ad8a1826fd7173ba3472e160d788c13791ac37b
+
+COCOAPODS: 1.2.0
